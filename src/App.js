@@ -15,7 +15,6 @@ class App extends Component {
     this.onSetColor = this.onSetColor.bind(this);
     this.onChangeSize = this.onChangeSize.bind(this);
     this.onSettingDefault = this.onSettingDefault.bind(this);
-
   }
 
   onSetColor = (params) => {
